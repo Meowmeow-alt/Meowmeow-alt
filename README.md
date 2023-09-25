@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bao Tien (Jennifer) Tran</h1>
+<h3 align="center">Just see how I grow every day, see you in the next few years!</h3>
+
+---
 
 <img align='left' width='10%' src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54' />
 <img align='left' width='9%' src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white' />
