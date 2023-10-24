@@ -7,7 +7,14 @@
 <img align='left' width='9%' src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white' />
 <img align='left' width='7.8%' src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white' />
 <img align='left' width='11%' src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=j' />
+<img align='left' width='9.2%' src='https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white' />
+<img align='left' width='9.5%' src='https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white' />
 <img align='left' width='9.2%' src='https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white' />
+<img align='left' width='12.5%' src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' />
+
+<br><br>
+
+<img align='left' width='12.5%' src='https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white' />
 
 <br><br>
 
