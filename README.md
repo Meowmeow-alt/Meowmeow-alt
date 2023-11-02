@@ -18,7 +18,7 @@
 
 <br><br>
 
-<img align='left' width='55%%' src='https://github-readme-stats.vercel.app/api?username=Meowmeow-alt&show_icons=true&theme=radical' />
+<img align='left' width='54%%' src='https://github-readme-stats.vercel.app/api?username=Meowmeow-alt&show_icons=true&theme=radical' />
 <img align='left' width='41%%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=meowmeow-alt&layout=compact&theme=radical&exclude_repo=131851583,[repo2](https://github.com/me50/Meowmeow-alt)' />
 
 <br><br>
