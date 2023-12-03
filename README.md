@@ -18,17 +18,19 @@
 
 <br><br>
 
-<img align='left' width='50%%' src='https://github-readme-stats.vercel.app/api?username=Meowmeow-alt&show_icons=true&theme=radical' />
-<img align='left' width='44%%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=meowmeow-alt&layout=compact&theme=radical&exclude_repo=131851583,[repo2](https://github.com/me50/Meowmeow-alt)' />
+<img align='left' width='50.5%%' src='https://github-readme-stats.vercel.app/api?username=Meowmeow-alt&show_icons=true&theme=radical' />
+<img align='left' width='44.5%%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=meowmeow-alt&layout=compact&theme=radical&exclude_repo=131851583,[repo2](https://github.com/me50/Meowmeow-alt)' />
 
 <br><br>
+
 ---
 
-<p align="center">Profile Visitors</p>
-<p align="center" style="margin: 0; padding: 0;">
-  <img width='30%' src='https://profile-counter.glitch.me/Meowmeow-alt/count.svg' />
-</p>
-
+<div>
+  <p align="center">Profile Visitors</p>
+  <p align="center" style="margin: 0; padding: 0;">
+    <img width='30%' src='https://profile-counter.glitch.me/Meowmeow-alt/count.svg' />
+  </p>
+</div>
 
 
 
