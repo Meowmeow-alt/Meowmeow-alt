@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bao Tien (Ellie Blaire) Tran</h1>
+<h1 align="center">Hi 👋, I'm Bao Tien (Jennifer) Tran</h1>
 <h3 align="center">Just see how I grow every day, see you in the next few years! - written in 25th Sep 2023</h3>
 
 ---
