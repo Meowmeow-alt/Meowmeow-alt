@@ -1,5 +1,33 @@
-<h1 align="center">Hi 👋, I'm Bao Tien (Jennifer) Tran</h1>
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+
+<h1 align="center">Hi 👋, I'm Jennifer Bao Tien Tran</h1>
 <h3 align="center">Just see how I grow every day, see you in the next few years! - written in 25th Sep 2023</h3>
+
+<p align="center">
+ <a href="https://Meowmeow-alt.com" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Meowmeow-alt" />
+ </a>
+ <a href="[https://linkedin.com/in/al-siam](https://www.linkedin.com/in/baotientran/)" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meowmeow-alt"/>
+ </a>
+ <a href="https://twitter.com/_Meowmeow-alt" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+ <a href="https://instagram.com/_Meowmeow-alt" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Meowmeow-alt" />
+ </a> 
+ <a href="https://facebook.com/Meowmeow-alt.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Meowmeow-alt"  />
+  </a> 
+</p>
+<br />
+
+<div>
+  <p align="center">Profile Visitors</p>
+  <p align="center" style="margin: 0; padding: 0;">
+    <img src='https://profile-counter.glitch.me/Meowmeow-alt/count.svg' />
+  </p>
+</div>
 
 ---
 
@@ -16,15 +44,10 @@
 </p>
 
 <p align="center">
-  <img src='https://github-readme-stats.vercel.app/api?username=Meowmeow-alt&show_icons=true&theme=radical' />
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=meowmeow-alt&layout=compact&theme=radical&exclude_repo=131851583,repo2' />
-</p>
+<a> 
+    <a href="https://github.com/Meowmeow-alt"><img alt="My Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Meowmeow-alt&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Meowmeow-alt"><img alt="Most used Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Meowmeow-alt&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
 
----
 
-<div>
-  <p align="center">Profile Visitors</p>
-  <p align="center" style="margin: 0; padding: 0;">
-    <img src='https://profile-counter.glitch.me/Meowmeow-alt/count.svg' />
-  </p>
-</div>
