@@ -7,7 +7,7 @@
  <a href="https://Meowmeow-alt.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Meowmeow-alt" />
  </a>
- <a href="[https://linkedin.com/in/al-siam](https://www.linkedin.com/in/baotientran/)" target="_blank">
+ <a href="[https://www.linkedin.com/in/baotientran/](https://www.linkedin.com/in/baotientran/)" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meowmeow-alt"/>
  </a>
  <a href="https://twitter.com/_Meowmeow-alt" target="_blank">
