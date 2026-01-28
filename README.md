@@ -1,6 +1,6 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-<h1 align="center">Hi 👋, I'm Jennifer Bao Tien Tran</h1>
+<h1 align="center">Hi 👋, I'm Jennifer Tran</h1>
 <h3 align="center">Just see how I grow every day, see you in the next few years! - written in 25th Sep 2023</h3>
 
 <p align="center">
